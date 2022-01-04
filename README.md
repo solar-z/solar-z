@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently an undergraduate in Zhejiang University.
-- 🌱 major in Information Engineering.
 - 😄 web developer.
 - ⚡ working as an intern in tiktok *dept.* of ByteDance now.
 
